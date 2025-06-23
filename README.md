@@ -37,3 +37,6 @@ A full-stack web application to help you track your income and expenses, visuali
    cd frontend
    npm install
    npm run dev
+
+//Running project -
+:- personal-finance-track.netlify.app
